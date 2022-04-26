@@ -2,4 +2,24 @@ h1 {
   color: yellow;
 }
 
+body{
+  background-color: #e0e0e0;
+  margin-left: 45px;
+  margin-right: 45px;
 
+}
+
+.keret{
+  background-color: #5c6b7b;
+}
+
+.feher{
+  background-color: #ffffff;
+}
+.tablazat{
+  background-color: #cddbeb;
+}
+#fejlec{
+  width: 1280px;
+  height: 200px;
+}
