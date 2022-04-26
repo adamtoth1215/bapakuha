@@ -1,0 +1,4 @@
+legkülső halványszürke: e0e0e0
+eggyel beljebbi kék margó cucc: 5c6b7b
+tartalom háttér: ffffff
+halványkékes emberek mögötti klikkelgetős háttér cuccos: cddbeb
