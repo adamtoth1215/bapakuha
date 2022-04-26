@@ -1,25 +1,43 @@
-h1 {
-  color: yellow;
-}
-
 body{
   background-color: #e0e0e0;
   margin-left: 45px;
   margin-right: 45px;
-
+  font-size: 18px;
+  line-height: 27px;
 }
 
 .keret{
   background-color: #5c6b7b;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 2px;
+  padding-bottom: 2px;
 }
 
 .feher{
   background-color: #ffffff;
 }
-.tablazat{
+td{
   background-color: #cddbeb;
+  margin: 1px;
+  width: 312px;
+  height: 45px;
+  text-align: center;
+
 }
 #fejlec{
   width: 1280px;
   height: 200px;
+}
+.profilkep{
+  
+  height: 300px;
+  width: 250px;
+  background-color: aqua;
+  float: left;
+  margin: 10px;
+}
+#kep{
+  text-align: left;
+  padding: 5px;
 }
